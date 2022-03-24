@@ -1,0 +1,30 @@
+2022-03-21 17:00:47.936623 [info] : ========== Server init ==========
+2022-03-21 17:00:47.936680 [info] : Port:1317, OpenLinger: false
+2022-03-21 17:00:47.936687 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-21 17:00:47.936690 [info] : LogSys level: 0
+2022-03-21 17:00:47.936775 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-21 17:00:47.936789 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-21 17:01:16.508581 [info] : ========== Server init ==========
+2022-03-21 17:01:16.508641 [info] : Port:1317, OpenLinger: false
+2022-03-21 17:01:16.508647 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-21 17:01:16.508650 [info] : LogSys level: 0
+2022-03-21 17:01:16.508731 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-21 17:01:16.508745 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-21 19:04:49.813216 [info] : ========== Server init ==========
+2022-03-21 19:04:49.813284 [info] : Port:1317, OpenLinger: false
+2022-03-21 19:04:49.813291 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-21 19:04:49.813296 [info] : LogSys level: 0
+2022-03-21 19:04:49.813300 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-21 19:04:49.813396 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-21 19:07:07.058808 [info] : ========== Server init ==========
+2022-03-21 19:07:07.058878 [info] : Port:1317, OpenLinger: false
+2022-03-21 19:07:07.058886 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-21 19:07:07.058969 [info] : LogSys level: 0
+2022-03-21 19:07:07.058982 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-21 19:07:07.059348 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-21 19:14:33.549124 [info] : ========== Server init ==========
+2022-03-21 19:14:33.549192 [info] : Port:1317, OpenLinger: false
+2022-03-21 19:14:33.549199 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-21 19:14:33.549202 [info] : LogSys level: 0
+2022-03-21 19:14:33.549284 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-21 19:14:33.549296 [info] : SqlConnPool num: 12, ThreadPool num: 6

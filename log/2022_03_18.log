@@ -1,0 +1,1000 @@
+2022-03-18 15:49:54.110883 [error]: ========== Server init error!==========
+2022-03-18 15:52:25.260028 [error]: ========== Server init error!==========
+2022-03-18 15:58:45.752430 [error]: ========== Server init error!==========
+2022-03-18 16:01:22.568704 [error]: ========== Server init error!==========
+2022-03-18 16:05:11.775419 [error]: ========== Server init error!==========
+2022-03-18 16:10:15.672466 [error]: ========== Server init error!==========
+2022-03-18 16:14:47.170949 [error]: ========== Server init error!==========
+2022-03-18 16:16:21.852066 [error]: ========== Server init error!==========
+2022-03-18 16:26:26.166256 [error]: ========== Server init error!==========
+2022-03-18 16:40:55.566403 [error]: ========== Server init error!==========
+2022-03-18 16:41:25.890415 [error]: ========== Server init error!==========
+2022-03-18 16:42:02.347244 [error]: ========== Server init error!==========
+2022-03-18 17:01:03.417294 [info] : ========== Server init ==========
+2022-03-18 17:01:03.417352 [info] : Port:1316, OpenLinger: false
+2022-03-18 17:01:03.417358 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 17:01:03.417361 [info] : LogSys level: 1
+2022-03-18 17:01:03.417440 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 17:01:03.417503 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 17:01:03.417808 [info] : ========== Server start ==========
+2022-03-18 17:02:31.409276 [info] : Client[18](172.18.59.49:60620) in, userCount:1
+2022-03-18 17:02:31.409894 [info] : Client[18] in!
+2022-03-18 17:02:31.410250 [info] : Client[22](172.18.59.49:60876) in, userCount:2
+2022-03-18 17:02:31.410960 [info] : Client[22] in!
+2022-03-18 17:02:31.433554 [error]: RequestLine Error
+2022-03-18 17:02:31.442169 [info] : Client[18] quit!
+2022-03-18 17:02:31.443802 [info] : Client[18](172.18.59.49:60620) quit, UserCount:1
+2022-03-18 17:02:31.591381 [error]: RequestLine Error
+2022-03-18 17:02:31.594638 [info] : Client[22] quit!
+2022-03-18 17:02:31.595638 [info] : Client[22](172.18.59.49:60876) quit, UserCount:0
+2022-03-18 17:02:39.887245 [info] : Client[18](172.18.59.49:62668) in, userCount:1
+2022-03-18 17:02:39.887918 [info] : Client[18] in!
+2022-03-18 17:02:39.889090 [info] : Client[22](172.18.59.49:62924) in, userCount:2
+2022-03-18 17:02:39.889961 [info] : Client[22] in!
+2022-03-18 17:02:39.890837 [error]: RequestLine Error
+2022-03-18 17:02:39.893333 [info] : Client[18] quit!
+2022-03-18 17:02:39.894563 [info] : Client[18](172.18.59.49:62668) quit, UserCount:1
+2022-03-18 17:02:40.823009 [info] : Client[18](172.18.59.49:63180) in, userCount:2
+2022-03-18 17:02:40.823600 [info] : Client[18] in!
+2022-03-18 17:02:40.824970 [error]: RequestLine Error
+2022-03-18 17:02:40.827048 [info] : Client[22] quit!
+2022-03-18 17:02:40.828331 [info] : Client[22](172.18.59.49:62924) quit, UserCount:1
+2022-03-18 17:02:41.262941 [info] : Client[22](172.18.59.49:63436) in, userCount:2
+2022-03-18 17:02:41.263381 [info] : Client[22] in!
+2022-03-18 17:02:41.264734 [error]: RequestLine Error
+2022-03-18 17:02:41.267288 [info] : Client[18] quit!
+2022-03-18 17:02:41.267794 [info] : Client[18](172.18.59.49:63180) quit, UserCount:1
+2022-03-18 17:02:41.445993 [info] : Client[18](172.18.59.49:63692) in, userCount:2
+2022-03-18 17:02:41.446359 [info] : Client[18] in!
+2022-03-18 17:02:41.447685 [error]: RequestLine Error
+2022-03-18 17:02:41.449225 [info] : Client[22] quit!
+2022-03-18 17:02:41.449695 [info] : Client[22](172.18.59.49:63436) quit, UserCount:1
+2022-03-18 17:02:41.639077 [info] : Client[22](172.18.59.49:63948) in, userCount:2
+2022-03-18 17:02:41.639538 [info] : Client[22] in!
+2022-03-18 17:02:41.641104 [error]: RequestLine Error
+2022-03-18 17:02:41.642984 [info] : Client[18] quit!
+2022-03-18 17:02:41.644415 [info] : Client[18](172.18.59.49:63692) quit, UserCount:1
+2022-03-18 17:02:41.813906 [info] : Client[18](172.18.59.49:64716) in, userCount:2
+2022-03-18 17:02:41.814223 [info] : Client[18] in!
+2022-03-18 17:02:41.815369 [error]: RequestLine Error
+2022-03-18 17:02:41.816947 [info] : Client[22] quit!
+2022-03-18 17:02:41.817448 [info] : Client[22](172.18.59.49:63948) quit, UserCount:1
+2022-03-18 17:03:31.345259 [info] : Client[22](172.18.59.49:33019) in, userCount:2
+2022-03-18 17:03:31.345688 [info] : Client[22] in!
+2022-03-18 17:03:31.346271 [error]: RequestLine Error
+2022-03-18 17:03:31.349482 [info] : Client[18] quit!
+2022-03-18 17:03:31.350237 [info] : Client[18](172.18.59.49:64716) quit, UserCount:1
+2022-03-18 17:04:31.367764 [info] : Client[22] quit!
+2022-03-18 17:04:31.368368 [info] : Client[22](172.18.59.49:33019) quit, UserCount:0
+2022-03-18 17:04:31.369615 [info] : Client[18] quit!
+2022-03-18 17:17:33.450436 [info] : Client[18](172.18.59.49:23787) in, userCount:1
+2022-03-18 17:17:33.492218 [info] : Client[18] in!
+2022-03-18 17:17:33.493117 [info] : Client[22](172.18.59.49:24043) in, userCount:2
+2022-03-18 17:17:33.493818 [info] : Client[22] in!
+2022-03-18 17:17:33.495168 [error]: RequestLine Error
+2022-03-18 17:17:33.500271 [info] : Client[18] quit!
+2022-03-18 17:17:33.619500 [info] : Client[18](172.18.59.49:23787) quit, UserCount:1
+2022-03-18 17:18:33.539374 [info] : Client[22] quit!
+2022-03-18 17:18:33.540309 [info] : Client[22](172.18.59.49:24043) quit, UserCount:0
+2022-03-18 17:18:33.541451 [info] : Client[18] quit!
+2022-03-18 17:21:24.872060 [info] : Client[18](172.18.59.49:31212) in, userCount:1
+2022-03-18 17:21:24.872720 [info] : Client[18] in!
+2022-03-18 17:21:24.873945 [error]: RequestLine Error
+2022-03-18 17:21:24.876083 [info] : Client[18] quit!
+2022-03-18 17:21:24.876546 [info] : Client[18](172.18.59.49:31212) quit, UserCount:0
+2022-03-18 18:42:17.103808 [info] : ========== Server init ==========
+2022-03-18 18:42:17.103866 [info] : Port:1316, OpenLinger: false
+2022-03-18 18:42:17.103872 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 18:42:17.103875 [info] : LogSys level: 1
+2022-03-18 18:42:17.103955 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 18:42:17.103971 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 18:44:01.800936 [info] : ========== Server init ==========
+2022-03-18 18:44:01.800993 [info] : Port:1316, OpenLinger: false
+2022-03-18 18:44:01.800999 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 18:44:01.801002 [info] : LogSys level: 1
+2022-03-18 18:44:01.801005 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 18:44:01.801085 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 18:44:01.801095 [info] : ========== Server start ==========
+2022-03-18 18:44:11.278176 [info] : Client[18](172.18.59.49:4070) in, userCount:1
+2022-03-18 18:44:11.280124 [info] : Client[18] in!
+2022-03-18 18:44:11.281499 [info] : Client[22](172.18.59.49:4326) in, userCount:2
+2022-03-18 18:44:11.282294 [info] : Client[22] in!
+2022-03-18 18:45:11.342188 [info] : Client[22] quit!
+2022-03-18 18:45:11.343186 [info] : Client[22](172.18.59.49:4326) quit, UserCount:1
+2022-03-18 18:45:11.343930 [info] : Client[18] quit!
+2022-03-18 18:45:11.345197 [info] : Client[18](172.18.59.49:4070) quit, UserCount:0
+2022-03-18 18:45:22.776051 [info] : Client[18](172.18.59.49:24806) in, userCount:1
+2022-03-18 18:45:22.776519 [info] : Client[18] in!
+2022-03-18 18:46:13.666469 [info] : Client[22](172.18.59.49:37862) in, userCount:2
+2022-03-18 18:46:13.667490 [info] : Client[22] in!
+2022-03-18 18:46:13.671083 [info] : Client[24](172.18.59.49:38118) in, userCount:3
+2022-03-18 18:46:13.677827 [info] : Client[24] in!
+2022-03-18 18:46:22.787255 [info] : Client[18] quit!
+2022-03-18 18:46:22.788018 [info] : Client[18](172.18.59.49:24806) quit, UserCount:2
+2022-03-18 18:47:13.671369 [info] : Client[22] quit!
+2022-03-18 18:47:13.672093 [info] : Client[22](172.18.59.49:37862) quit, UserCount:1
+2022-03-18 18:47:13.677238 [info] : Client[24] quit!
+2022-03-18 18:47:13.678232 [info] : Client[24](172.18.59.49:38118) quit, UserCount:0
+2022-03-18 18:50:01.879687 [info] : Client[18](172.18.59.49:58320) in, userCount:1
+2022-03-18 18:50:01.880548 [info] : Client[18] in!
+2022-03-18 18:51:01.917457 [info] : Client[18] quit!
+2022-03-18 18:53:08.267330 [info] : ========== Server init ==========
+2022-03-18 18:53:08.267428 [info] : Port:1316, OpenLinger: false
+2022-03-18 18:53:08.267535 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 18:53:08.267549 [info] : LogSys level: 1
+2022-03-18 18:53:08.269142 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 18:53:08.270066 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 18:53:08.271148 [info] : ========== Server start ==========
+2022-03-18 18:53:20.270650 [info] : Client[18](172.18.59.49:42198) in, userCount:1
+2022-03-18 18:54:16.242325 [info] : ========== Server init ==========
+2022-03-18 18:54:16.242409 [info] : Port:1316, OpenLinger: false
+2022-03-18 18:54:16.242495 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 18:54:16.242506 [info] : LogSys level: 1
+2022-03-18 18:54:16.242510 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 18:54:16.242835 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 18:54:16.243539 [info] : ========== Server start ==========
+2022-03-18 18:54:19.086450 [info] : Client[18](172.18.59.49:57046) in, userCount:1
+2022-03-18 18:54:19.086868 [info] : Client[18] in!
+2022-03-18 18:55:19.131241 [info] : Client[18] quit!
+2022-03-18 18:58:11.064805 [info] : ========== Server init ==========
+2022-03-18 18:58:11.064864 [info] : Port:1316, OpenLinger: false
+2022-03-18 18:58:11.064870 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 18:58:11.064873 [info] : LogSys level: 0
+2022-03-18 18:58:11.064876 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 18:58:11.064965 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 18:58:11.064975 [info] : ========== Server start ==========
+2022-03-18 18:58:34.317280 [info] : Client[18](172.18.59.49:60887) in, userCount:1
+2022-03-18 18:58:34.317773 [info] : Client[18] in!
+2022-03-18 18:58:34.319467 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 18:58:34.319841 [debug]: /index.html
+2022-03-18 18:58:34.322454 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//index.html
+2022-03-18 18:58:34.323196 [debug]: filesize:3148, 2  to 3273
+2022-03-18 18:59:34.373632 [info] : Client[18] quit!
+2022-03-18 19:07:57.048527 [info] : ========== Server init ==========
+2022-03-18 19:07:57.048628 [info] : Port:1316, OpenLinger: false
+2022-03-18 19:07:57.048719 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 19:07:57.048730 [info] : LogSys level: 0
+2022-03-18 19:07:57.048733 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 19:07:57.049282 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 19:07:57.050032 [info] : ========== Server start ==========
+2022-03-18 19:07:59.581796 [info] : Client[18](172.18.59.49:25831) in, userCount:1
+2022-03-18 19:07:59.582251 [info] : Client[18] in!
+2022-03-18 19:07:59.584179 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 19:12:44.471568 [info] : ========== Server init ==========
+2022-03-18 19:12:44.471625 [info] : Port:1316, OpenLinger: false
+2022-03-18 19:12:44.471631 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 19:12:44.471634 [info] : LogSys level: 0
+2022-03-18 19:12:44.471637 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 19:12:44.471728 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 19:12:44.472065 [info] : ========== Server start ==========
+2022-03-18 19:12:47.189918 [info] : Client[18](172.18.59.49:57854) in, userCount:1
+2022-03-18 19:12:47.190283 [info] : Client[18] in!
+2022-03-18 19:12:47.191966 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 19:22:58.810763 [info] : ========== Server init ==========
+2022-03-18 19:22:58.810839 [info] : Port:1316, OpenLinger: false
+2022-03-18 19:22:58.810851 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 19:22:58.810854 [info] : LogSys level: 0
+2022-03-18 19:22:58.810936 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 19:22:58.810951 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 19:22:58.811459 [info] : ========== Server start ==========
+2022-03-18 19:23:01.264824 [info] : Client[18](172.18.59.49:47569) in, userCount:1
+2022-03-18 19:23:01.265257 [info] : Client[18] in!
+2022-03-18 19:23:01.267116 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 19:24:40.006405 [info] : ========== Server init ==========
+2022-03-18 19:24:40.006479 [info] : Port:1316, OpenLinger: false
+2022-03-18 19:24:40.006486 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 19:24:40.006489 [info] : LogSys level: 0
+2022-03-18 19:24:40.006491 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 19:24:40.006584 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 19:24:40.006601 [info] : ========== Server start ==========
+2022-03-18 19:24:42.752854 [info] : Client[18](172.18.59.49:12754) in, userCount:1
+2022-03-18 19:24:42.753639 [info] : Client[18] in!
+2022-03-18 19:24:42.755497 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 20:08:42.615637 [info] : ========== Server init ==========
+2022-03-18 20:08:42.615695 [info] : Port:1316, OpenLinger: false
+2022-03-18 20:08:42.615701 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 20:08:42.615704 [info] : LogSys level: 0
+2022-03-18 20:08:42.615707 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 20:08:42.615714 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 20:08:42.615718 [info] : ========== Server start ==========
+2022-03-18 20:08:57.470051 [info] : Client[18](172.18.59.49:65262) in, userCount:1
+2022-03-18 20:08:57.470925 [info] : Client[18] in!
+2022-03-18 20:08:57.473649 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 20:09:34.950539 [info] : ========== Server init ==========
+2022-03-18 20:09:34.950600 [info] : Port:1316, OpenLinger: false
+2022-03-18 20:09:34.950606 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 20:09:34.950609 [info] : LogSys level: 0
+2022-03-18 20:09:34.950612 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 20:09:34.950694 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 20:09:34.950704 [info] : ========== Server start ==========
+2022-03-18 20:10:30.120654 [info] : Client[28](172.18.59.49:25583) in, userCount:1
+2022-03-18 20:10:30.121038 [info] : Client[28] in!
+2022-03-18 20:10:30.123000 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 20:12:16.208156 [info] : ========== Server init ==========
+2022-03-18 20:12:16.208217 [info] : Port:1316, OpenLinger: false
+2022-03-18 20:12:16.208223 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 20:12:16.208226 [info] : LogSys level: 0
+2022-03-18 20:12:16.208330 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 20:12:16.208716 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 20:12:16.209537 [info] : ========== Server start ==========
+2022-03-18 20:12:35.025525 [info] : Client[18](172.18.59.49:59631) in, userCount:1
+2022-03-18 20:12:35.026686 [info] : Client[18] in!
+2022-03-18 20:12:35.028356 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 20:12:35.028680 [debug]: /index.html
+2022-03-18 20:12:35.032224 [debug]: CODE_ 200
+2022-03-18 20:12:35.034028 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//index.html
+2022-03-18 20:12:35.034761 [debug]: filesize:3148, 2  to 3273
+2022-03-18 20:12:35.035730 [debug]: WRITE bytes (null)
+
+2022-03-18 20:13:35.086174 [info] : Client[18] quit!
+2022-03-18 20:32:56.491093 [info] : ========== Server init ==========
+2022-03-18 20:32:56.491155 [info] : Port:1317, OpenLinger: false
+2022-03-18 20:32:56.491161 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 20:32:56.491164 [info] : LogSys level: 0
+2022-03-18 20:32:56.491167 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 20:32:56.491253 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 20:32:56.491264 [info] : ========== Server start ==========
+2022-03-18 20:33:32.730005 [info] : Client[18](172.18.59.49:55236) in, userCount:1
+2022-03-18 20:33:32.730407 [info] : Client[18] in!
+2022-03-18 20:33:32.731930 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 20:33:32.732744 [debug]: /index.html
+2022-03-18 20:33:32.736098 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//index.html
+2022-03-18 20:33:32.737018 [debug]: filesize:3148, 2  to 3273
+2022-03-18 20:33:32.738323 [debug]: WRITE bytes (null)
+
+2022-03-18 20:34:32.772166 [info] : Client[18] quit!
+2022-03-18 20:38:21.902770 [info] : ========== Server init ==========
+2022-03-18 20:38:21.902822 [info] : Port:1317, OpenLinger: false
+2022-03-18 20:38:21.902828 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 20:38:21.902830 [info] : LogSys level: 0
+2022-03-18 20:38:21.902833 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 20:38:21.902918 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 20:38:21.902929 [info] : ========== Server start ==========
+2022-03-18 20:38:32.510685 [info] : Client[18](172.18.59.49:31174) in, userCount:1
+2022-03-18 20:38:32.511431 [info] : Client[18] in!
+2022-03-18 20:38:32.513222 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 20:38:32.514144 [debug]: /index.html
+2022-03-18 20:38:32.516185 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//index.html
+2022-03-18 20:38:32.516928 [debug]: filesize:3148, 2  to 3273
+2022-03-18 20:38:32.518253 [debug]: WRITE bytes 0
+
+2022-03-18 20:39:32.527776 [info] : Client[18] quit!
+2022-03-18 20:42:46.833790 [info] : ========== Server init ==========
+2022-03-18 20:42:46.833848 [info] : Port:1317, OpenLinger: false
+2022-03-18 20:42:46.833854 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 20:42:46.833857 [info] : LogSys level: 0
+2022-03-18 20:42:46.833933 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 20:42:46.833982 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 20:42:46.834283 [info] : ========== Server start ==========
+2022-03-18 20:42:59.893549 [info] : Client[18](172.18.59.49:37063) in, userCount:1
+2022-03-18 20:42:59.893951 [info] : Client[18] in!
+2022-03-18 20:42:59.895075 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 20:42:59.895596 [debug]: /index.html
+2022-03-18 20:42:59.899182 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//index.html
+2022-03-18 20:42:59.899905 [debug]: filesize:3148, 2  to 3271
+2022-03-18 20:42:59.901397 [debug]: WRITE bytes 0
+
+2022-03-18 20:43:59.957954 [info] : Client[18] quit!
+2022-03-18 20:43:59.959152 [info] : Client[18](172.18.59.49:37063) quit, UserCount:0
+2022-03-18 20:44:40.949434 [info] : Client[18](172.18.59.49:64711) in, userCount:1
+2022-03-18 20:44:40.949786 [info] : Client[18] in!
+2022-03-18 20:44:40.951373 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 20:44:40.951672 [debug]: /index.html
+2022-03-18 20:44:40.954121 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//index.html
+2022-03-18 20:44:40.955011 [debug]: filesize:3148, 2  to 3271
+2022-03-18 20:44:40.956492 [debug]: WRITE bytes 0
+
+2022-03-18 20:45:01.030860 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 20:45:01.031841 [debug]: /index.html
+2022-03-18 20:45:01.035403 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//index.html
+2022-03-18 20:45:01.036086 [debug]: filesize:3148, 2  to 3271
+2022-03-18 20:45:01.038109 [debug]: WRITE bytes 0
+
+2022-03-18 20:46:01.058780 [info] : Client[18] quit!
+2022-03-18 20:49:35.943853 [info] : ========== Server init ==========
+2022-03-18 20:49:35.943914 [info] : Port:1317, OpenLinger: false
+2022-03-18 20:49:35.943921 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-03-18 20:49:35.943924 [info] : LogSys level: 0
+2022-03-18 20:49:35.943927 [info] : srcDir: /mnt/hj/codeTest/websever_program_hj/resources/
+2022-03-18 20:49:35.943937 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2022-03-18 20:49:35.943940 [info] : ========== Server start ==========
+2022-03-18 20:49:40.540822 [info] : Client[18](172.18.59.49:14793) in, userCount:1
+2022-03-18 20:49:40.541272 [info] : Client[18] in!
+2022-03-18 20:49:40.542861 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 20:49:40.543073 [debug]: /index.html
+2022-03-18 20:49:40.545434 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//index.html
+2022-03-18 20:49:40.546079 [debug]: filesize:3148, 2  to 3270
+2022-03-18 20:49:40.547931 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.757560 [info] : Client[21](172.18.59.49:19145) in, userCount:2
+2022-03-18 20:49:56.758314 [info] : Client[21] in!
+2022-03-18 20:49:56.760203 [info] : Client[22](172.18.59.49:19401) in, userCount:3
+2022-03-18 20:49:56.761016 [info] : Client[22] in!
+2022-03-18 20:49:56.762353 [debug]: [GET], [/index.html], [1.1]
+2022-03-18 20:49:56.763027 [debug]: /index.html
+2022-03-18 20:49:56.767704 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//index.html
+2022-03-18 20:49:56.768529 [debug]: filesize:3148, 2  to 3270
+2022-03-18 20:49:56.769792 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.801231 [info] : Client[24](172.18.59.49:19913) in, userCount:4
+2022-03-18 20:49:56.801550 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2022-03-18 20:49:56.801912 [debug]: [GET], [/css/animate.css], [1.1]
+2022-03-18 20:49:56.803692 [info] : Client[24] in!
+2022-03-18 20:49:56.804978 [debug]: /css/bootstrap.min.css
+2022-03-18 20:49:56.805000 [info] : Client[25](172.18.59.49:20169) in, userCount:5
+2022-03-18 20:49:56.805003 [debug]: /css/animate.css
+2022-03-18 20:49:56.809180 [info] : Client[25] in!
+2022-03-18 20:49:56.810602 [info] : Client[28](172.18.59.49:20425) in, userCount:6
+2022-03-18 20:49:56.812462 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/animate.css
+2022-03-18 20:49:56.812492 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/bootstrap.min.css
+2022-03-18 20:49:56.812561 [info] : Client[28] in!
+2022-03-18 20:49:56.815764 [info] : Client[26](172.18.59.49:20681) in, userCount:7
+2022-03-18 20:49:56.815771 [debug]: filesize:76080, 2  to 76203
+2022-03-18 20:49:56.815790 [debug]: filesize:121265, 2  to 121389
+2022-03-18 20:49:56.816763 [info] : Client[26] in!
+2022-03-18 20:49:56.819651 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2022-03-18 20:49:56.824780 [debug]: [GET], [/js/jquery.js], [1.1]
+2022-03-18 20:49:56.819692 [debug]: [GET], [/css/style.css], [1.1]
+2022-03-18 20:49:56.827035 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.828807 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2022-03-18 20:49:56.828841 [debug]: /js/jquery.js
+2022-03-18 20:49:56.828909 [debug]: /css/style.css
+2022-03-18 20:49:56.827106 [debug]: /css/font-awesome.min.css
+2022-03-18 20:49:56.830095 [debug]: /css/magnific-popup.css
+2022-03-18 20:49:56.834306 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.834383 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2022-03-18 20:49:56.834419 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/jquery.js
+2022-03-18 20:49:56.836409 [debug]: filesize:85661, 2  to 85791
+2022-03-18 20:49:56.836962 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2022-03-18 20:49:56.836942 [debug]: /js/smoothscroll.js
+2022-03-18 20:49:56.836916 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/style.css
+2022-03-18 20:49:56.843285 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/magnific-popup.css
+2022-03-18 20:49:56.843321 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.843307 [debug]: /js/bootstrap.min.js
+2022-03-18 20:49:56.843315 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/font-awesome.min.css
+2022-03-18 20:49:56.845929 [debug]: filesize:9807, 2  to 9929
+2022-03-18 20:49:56.848104 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/smoothscroll.js
+2022-03-18 20:49:56.848120 [debug]: filesize:7302, 2  to 7424
+2022-03-18 20:49:56.848496 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.848700 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/bootstrap.min.js
+2022-03-18 20:49:56.852784 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.855328 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2022-03-18 20:49:56.855592 [debug]: filesize:36874, 2  to 37004
+2022-03-18 20:49:56.856967 [debug]: filesize:27396, 2  to 27519
+2022-03-18 20:49:56.857000 [debug]: filesize:4507, 2  to 4636
+2022-03-18 20:49:56.857099 [debug]: /js/magnific-popup-options.js
+2022-03-18 20:49:56.848126 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2022-03-18 20:49:56.863703 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.856984 [debug]: [GET], [/js/wow.min.js], [1.1]
+2022-03-18 20:49:56.865935 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.866768 [debug]: /js/jquery.magnific-popup.min.js
+2022-03-18 20:49:56.868331 [debug]: /js/wow.min.js
+2022-03-18 20:49:56.868556 [debug]: [GET], [/js/custom.js], [1.1]
+2022-03-18 20:49:56.868722 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.867113 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/magnific-popup-options.js
+2022-03-18 20:49:56.871774 [debug]: /js/custom.js
+2022-03-18 20:49:56.872497 [debug]: filesize:1101, 2  to 1230
+2022-03-18 20:49:56.873551 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2022-03-18 20:49:56.873638 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/jquery.magnific-popup.min.js
+2022-03-18 20:49:56.876976 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.877168 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/custom.js
+2022-03-18 20:49:56.880915 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/wow.min.js
+2022-03-18 20:49:56.881539 [debug]: filesize:20935, 2  to 21065
+2022-03-18 20:49:56.879088 [debug]: /images/profile-image.jpg
+2022-03-18 20:49:56.884024 [debug]: filesize:1087, 2  to 1216
+2022-03-18 20:49:56.885813 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.887509 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.889031 [debug]: filesize:7083, 2  to 7212
+2022-03-18 20:49:56.894636 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.898194 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//images/profile-image.jpg
+2022-03-18 20:49:56.900327 [debug]: filesize:47176, 2  to 47300
+2022-03-18 20:49:56.902652 [debug]: WRITE bytes 0
+
+2022-03-18 20:49:56.926674 [debug]: [GET], [/images/favicon.ico], [1.1]
+2022-03-18 20:49:56.926984 [debug]: /images/favicon.ico
+2022-03-18 20:49:56.928741 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//images/favicon.ico
+2022-03-18 20:49:56.930676 [debug]: filesize:60990, 2  to 61114
+2022-03-18 20:49:56.932538 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:07.637511 [debug]: [GET], [/login.html], [1.1]
+2022-03-18 20:50:07.638204 [debug]: /login.html
+2022-03-18 20:50:07.642074 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//login.html
+2022-03-18 20:50:07.643477 [debug]: filesize:3385, 2  to 3507
+2022-03-18 20:50:07.644895 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:07.689255 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2022-03-18 20:50:07.690568 [debug]: /css/bootstrap.min.css
+2022-03-18 20:50:07.700315 [debug]: [GET], [/css/animate.css], [1.1]
+2022-03-18 20:50:07.701227 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/bootstrap.min.css
+2022-03-18 20:50:07.701945 [debug]: [GET], [/css/style.css], [1.1]
+2022-03-18 20:50:07.702065 [debug]: /css/animate.css
+2022-03-18 20:50:07.702142 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2022-03-18 20:50:07.705722 [debug]: [GET], [/js/jquery.js], [1.1]
+2022-03-18 20:50:07.706926 [debug]: filesize:121265, 2  to 121389
+2022-03-18 20:50:07.708403 [debug]: /js/jquery.js
+2022-03-18 20:50:07.706976 [debug]: /css/style.css
+2022-03-18 20:50:07.707060 [debug]: /css/magnific-popup.css
+2022-03-18 20:50:07.710537 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2022-03-18 20:50:07.710550 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/animate.css
+2022-03-18 20:50:07.714828 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:07.714846 [debug]: /css/font-awesome.min.css
+2022-03-18 20:50:07.719814 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/magnific-popup.css
+2022-03-18 20:50:07.719829 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/style.css
+2022-03-18 20:50:07.722774 [debug]: filesize:76080, 2  to 76203
+2022-03-18 20:50:07.723272 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2022-03-18 20:50:07.725272 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/font-awesome.min.css
+2022-03-18 20:50:07.727622 [debug]: filesize:9807, 2  to 9929
+2022-03-18 20:50:07.729474 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/jquery.js
+2022-03-18 20:50:07.723320 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:07.731805 [debug]: filesize:7302, 2  to 7424
+2022-03-18 20:50:07.733711 [debug]: /js/bootstrap.min.js
+2022-03-18 20:50:07.735687 [debug]: filesize:27396, 2  to 27519
+2022-03-18 20:50:07.735709 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:07.736208 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2022-03-18 20:50:07.739547 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:07.740378 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2022-03-18 20:50:07.735718 [debug]: filesize:85661, 2  to 85791
+2022-03-18 20:50:07.744081 [debug]: /js/smoothscroll.js
+2022-03-18 20:50:07.747209 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:07.744135 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/bootstrap.min.js
+2022-03-18 20:50:07.747825 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2022-03-18 20:50:07.748000 [debug]: WRITE bytes -1
+
+2022-03-18 20:50:07.748035 [debug]: /js/jquery.magnific-popup.min.js
+2022-03-18 20:50:07.749277 [debug]: /js/magnific-popup-options.js
+2022-03-18 20:50:07.754048 [debug]: [GET], [/js/wow.min.js], [1.1]
+2022-03-18 20:50:07.754088 [debug]: filesize:36874, 2  to 37004
+2022-03-18 20:50:07.754128 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/smoothscroll.js
+2022-03-18 20:50:07.754081 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:07.756702 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/jquery.magnific-popup.min.js
+2022-03-18 20:50:07.756729 [debug]: /js/wow.min.js
+2022-03-18 20:50:07.761944 [debug]: filesize:20935, 2  to 21065
+2022-03-18 20:50:07.764214 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/magnific-popup-options.js
+2022-03-18 20:50:07.765761 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:07.765855 [debug]: [GET], [/js/custom.js], [1.1]
+2022-03-18 20:50:07.765868 [debug]: filesize:4507, 2  to 4636
+2022-03-18 20:50:07.765877 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:07.773255 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/wow.min.js
+2022-03-18 20:50:07.775288 [debug]: filesize:1101, 2  to 1230
+2022-03-18 20:50:07.775427 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:07.779152 [debug]: /js/custom.js
+2022-03-18 20:50:07.779245 [debug]: filesize:7083, 2  to 7212
+2022-03-18 20:50:07.779269 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:07.781881 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:07.785018 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/custom.js
+2022-03-18 20:50:07.786939 [debug]: filesize:1087, 2  to 1216
+2022-03-18 20:50:07.788975 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.802137 [debug]: username = 123456
+2022-03-18 20:50:15.802867 [debug]: Tag:1
+2022-03-18 20:50:15.804031 [info] : Verify name:123456 pwd:111
+2022-03-18 20:50:15.804576 [debug]: SELECT username, password FROM user WHERE username='123456' LIMIT 1
+2022-03-18 20:50:15.826558 [debug]: UserVerify success!!
+2022-03-18 20:50:15.826832 [debug]: Body:username=123456&password=111, len:28
+2022-03-18 20:50:15.827529 [debug]: [POST], [/error.html], [1.1]
+2022-03-18 20:50:15.828097 [debug]: /error.html
+2022-03-18 20:50:15.832152 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//error.html
+2022-03-18 20:50:15.833088 [debug]: filesize:3265, 2  to 3387
+2022-03-18 20:50:15.834326 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.834819 [error]: RequestLine Error
+2022-03-18 20:50:15.838084 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//404.html
+2022-03-18 20:50:15.839161 [debug]: filesize:3149, 2  to 3241
+2022-03-18 20:50:15.840568 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.840860 [info] : Client[25] quit!
+2022-03-18 20:50:15.842118 [info] : Client[25](172.18.59.49:20169) quit, UserCount:6
+2022-03-18 20:50:15.864511 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2022-03-18 20:50:15.865073 [debug]: /css/bootstrap.min.css
+2022-03-18 20:50:15.867179 [info] : Client[25](172.18.59.49:26569) in, userCount:7
+2022-03-18 20:50:15.867394 [debug]: [GET], [/css/animate.css], [1.1]
+2022-03-18 20:50:15.867817 [info] : Client[25] in!
+2022-03-18 20:50:15.869449 [debug]: /css/animate.css
+2022-03-18 20:50:15.871221 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2022-03-18 20:50:15.875618 [debug]: [GET], [/css/style.css], [1.1]
+2022-03-18 20:50:15.875641 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2022-03-18 20:50:15.875659 [debug]: [GET], [/js/jquery.js], [1.1]
+2022-03-18 20:50:15.875686 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/animate.css
+2022-03-18 20:50:15.878153 [debug]: /css/style.css
+2022-03-18 20:50:15.878167 [debug]: /css/magnific-popup.css
+2022-03-18 20:50:15.879099 [debug]: /css/font-awesome.min.css
+2022-03-18 20:50:15.878176 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/bootstrap.min.css
+2022-03-18 20:50:15.884012 [debug]: /js/jquery.js
+2022-03-18 20:50:15.884061 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/magnific-popup.css
+2022-03-18 20:50:15.886388 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/style.css
+2022-03-18 20:50:15.887518 [debug]: filesize:121265, 2  to 121389
+2022-03-18 20:50:15.888686 [debug]: filesize:76080, 2  to 76203
+2022-03-18 20:50:15.888792 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.889812 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/font-awesome.min.css
+2022-03-18 20:50:15.890918 [debug]: filesize:7302, 2  to 7424
+2022-03-18 20:50:15.895246 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.895350 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.901964 [debug]: filesize:27396, 2  to 27519
+2022-03-18 20:50:15.895382 [debug]: filesize:9807, 2  to 9929
+2022-03-18 20:50:15.906309 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.908279 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/jquery.js
+2022-03-18 20:50:15.909321 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.904981 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2022-03-18 20:50:15.910831 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2022-03-18 20:50:15.910864 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2022-03-18 20:50:15.914281 [debug]: filesize:85661, 2  to 85791
+2022-03-18 20:50:15.914359 [debug]: /js/bootstrap.min.js
+2022-03-18 20:50:15.914374 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2022-03-18 20:50:15.914387 [debug]: [GET], [/js/wow.min.js], [1.1]
+2022-03-18 20:50:15.918234 [debug]: /js/jquery.magnific-popup.min.js
+2022-03-18 20:50:15.918443 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.918486 [debug]: /js/magnific-popup-options.js
+2022-03-18 20:50:15.918494 [debug]: /js/wow.min.js
+2022-03-18 20:50:15.918498 [debug]: /js/smoothscroll.js
+2022-03-18 20:50:15.922091 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/bootstrap.min.js
+2022-03-18 20:50:15.926805 [debug]: [GET], [/js/custom.js], [1.1]
+2022-03-18 20:50:15.926821 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/jquery.magnific-popup.min.js
+2022-03-18 20:50:15.931478 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/wow.min.js
+2022-03-18 20:50:15.931583 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/smoothscroll.js
+2022-03-18 20:50:15.931621 [debug]: filesize:36874, 2  to 37004
+2022-03-18 20:50:15.931646 [debug]: /js/custom.js
+2022-03-18 20:50:15.931662 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/magnific-popup-options.js
+2022-03-18 20:50:15.931733 [debug]: filesize:20935, 2  to 21065
+2022-03-18 20:50:15.941257 [debug]: filesize:7083, 2  to 7212
+2022-03-18 20:50:15.943874 [debug]: filesize:4507, 2  to 4636
+2022-03-18 20:50:15.943988 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.944031 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.944066 [debug]: filesize:1101, 2  to 1230
+2022-03-18 20:50:15.945247 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.950424 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.951006 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2022-03-18 20:50:15.953652 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/custom.js
+2022-03-18 20:50:15.953728 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.953739 [debug]: /images/profile-image.jpg
+2022-03-18 20:50:15.956716 [debug]: filesize:1087, 2  to 1216
+2022-03-18 20:50:15.957977 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//images/profile-image.jpg
+2022-03-18 20:50:15.958983 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:15.960519 [debug]: filesize:47176, 2  to 47300
+2022-03-18 20:50:15.964041 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:20.106989 [debug]: [GET], [/register.html], [1.1]
+2022-03-18 20:50:20.108429 [debug]: /register.html
+2022-03-18 20:50:20.111748 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//register.html
+2022-03-18 20:50:20.112454 [debug]: filesize:3380, 2  to 3502
+2022-03-18 20:50:20.114189 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:20.154719 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2022-03-18 20:50:20.155417 [debug]: /css/bootstrap.min.css
+2022-03-18 20:50:20.158196 [debug]: [GET], [/css/animate.css], [1.1]
+2022-03-18 20:50:20.165405 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2022-03-18 20:50:20.165508 [debug]: [GET], [/js/jquery.js], [1.1]
+2022-03-18 20:50:20.166812 [debug]: /css/animate.css
+2022-03-18 20:50:20.167306 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2022-03-18 20:50:20.168831 [debug]: /css/magnific-popup.css
+2022-03-18 20:50:20.168913 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/bootstrap.min.css
+2022-03-18 20:50:20.168891 [debug]: /js/jquery.js
+2022-03-18 20:50:20.168973 [debug]: [GET], [/css/style.css], [1.1]
+2022-03-18 20:50:20.168985 [debug]: /css/font-awesome.min.css
+2022-03-18 20:50:20.172505 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/animate.css
+2022-03-18 20:50:20.172521 [debug]: /css/style.css
+2022-03-18 20:50:20.176129 [debug]: filesize:121265, 2  to 121389
+2022-03-18 20:50:20.180736 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/magnific-popup.css
+2022-03-18 20:50:20.185960 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/font-awesome.min.css
+2022-03-18 20:50:20.186040 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:20.186056 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/jquery.js
+2022-03-18 20:50:20.186068 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/style.css
+2022-03-18 20:50:20.186498 [debug]: filesize:76080, 2  to 76203
+2022-03-18 20:50:20.194092 [debug]: filesize:85661, 2  to 85791
+2022-03-18 20:50:20.195751 [debug]: filesize:27396, 2  to 27519
+2022-03-18 20:50:20.196208 [debug]: filesize:9807, 2  to 9929
+2022-03-18 20:50:20.196289 [debug]: filesize:7302, 2  to 7424
+2022-03-18 20:50:20.199299 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2022-03-18 20:50:20.202970 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:20.204331 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:20.211054 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:20.211135 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2022-03-18 20:50:20.211157 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:20.211173 [debug]: /js/bootstrap.min.js
+2022-03-18 20:50:20.214044 [debug]: /js/jquery.magnific-popup.min.js
+2022-03-18 20:50:20.211174 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:20.218316 [debug]: [GET], [/js/wow.min.js], [1.1]
+2022-03-18 20:50:20.219918 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2022-03-18 20:50:20.220013 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2022-03-18 20:50:20.222364 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/bootstrap.min.js
+2022-03-18 20:50:20.223020 [debug]: /js/wow.min.js
+2022-03-18 20:50:20.223237 [debug]: /js/magnific-popup-options.js
+2022-03-18 20:50:20.223297 [debug]: /js/smoothscroll.js
+2022-03-18 20:50:20.223024 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/jquery.magnific-popup.min.js
+2022-03-18 20:50:20.223449 [debug]: [GET], [/js/custom.js], [1.1]
+2022-03-18 20:50:20.228467 [debug]: filesize:36874, 2  to 37004
+2022-03-18 20:50:20.228604 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/wow.min.js
+2022-03-18 20:50:20.228705 [debug]: /js/custom.js
+2022-03-18 20:50:20.228626 [debug]: filesize:20935, 2  to 21065
+2022-03-18 20:50:20.235909 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/smoothscroll.js
+2022-03-18 20:50:20.237894 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/magnific-popup-options.js
+2022-03-18 20:50:20.241336 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:20.245178 [debug]: filesize:7083, 2  to 7212
+2022-03-18 20:50:20.245315 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:20.241497 [debug]: filesize:4507, 2  to 4636
+2022-03-18 20:50:20.246785 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:20.249473 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/custom.js
+2022-03-18 20:50:20.245223 [debug]: filesize:1101, 2  to 1230
+2022-03-18 20:50:20.252069 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:20.252097 [debug]: filesize:1087, 2  to 1216
+2022-03-18 20:50:20.254483 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:20.257974 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.667775 [debug]: username = 123
+2022-03-18 20:50:24.668445 [debug]: Tag:0
+2022-03-18 20:50:24.669595 [info] : Verify name:123 pwd:1
+2022-03-18 20:50:24.670667 [debug]: SELECT username, password FROM user WHERE username='123' LIMIT 1
+2022-03-18 20:50:24.679874 [debug]: regirster!
+2022-03-18 20:50:24.680484 [debug]: INSERT INTO user(username, password) VALUES('123','1')
+2022-03-18 20:50:24.682826 [debug]: UserVerify success!!
+2022-03-18 20:50:24.683255 [debug]: Body:username=123&password=1, len:23
+2022-03-18 20:50:24.684123 [debug]: [POST], [/welcome.html], [1.1]
+2022-03-18 20:50:24.684741 [debug]: /welcome.html
+2022-03-18 20:50:24.686803 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//welcome.html
+2022-03-18 20:50:24.687458 [debug]: filesize:3161, 2  to 3283
+2022-03-18 20:50:24.688652 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.689160 [error]: RequestLine Error
+2022-03-18 20:50:24.692538 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//404.html
+2022-03-18 20:50:24.693044 [debug]: filesize:3149, 2  to 3241
+2022-03-18 20:50:24.694448 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.694690 [info] : Client[22] quit!
+2022-03-18 20:50:24.695417 [info] : Client[22](172.18.59.49:19401) quit, UserCount:6
+2022-03-18 20:50:24.720526 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2022-03-18 20:50:24.720909 [debug]: /css/bootstrap.min.css
+2022-03-18 20:50:24.726479 [debug]: [GET], [/css/animate.css], [1.1]
+2022-03-18 20:50:24.727394 [info] : Client[22](172.18.59.49:29641) in, userCount:7
+2022-03-18 20:50:24.727505 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2022-03-18 20:50:24.729687 [debug]: [GET], [/css/style.css], [1.1]
+2022-03-18 20:50:24.731143 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/bootstrap.min.css
+2022-03-18 20:50:24.731197 [info] : Client[22] in!
+2022-03-18 20:50:24.732473 [debug]: /css/magnific-popup.css
+2022-03-18 20:50:24.732473 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2022-03-18 20:50:24.732492 [debug]: /css/style.css
+2022-03-18 20:50:24.736028 [debug]: filesize:121265, 2  to 121389
+2022-03-18 20:50:24.736055 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/magnific-popup.css
+2022-03-18 20:50:24.738352 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/style.css
+2022-03-18 20:50:24.738484 [debug]: /css/font-awesome.min.css
+2022-03-18 20:50:24.738425 [debug]: [GET], [/js/jquery.js], [1.1]
+2022-03-18 20:50:24.732578 [debug]: /css/animate.css
+2022-03-18 20:50:24.747595 [debug]: /js/jquery.js
+2022-03-18 20:50:24.747687 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.750591 [debug]: filesize:9807, 2  to 9929
+2022-03-18 20:50:24.744709 [debug]: filesize:7302, 2  to 7424
+2022-03-18 20:50:24.753138 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/font-awesome.min.css
+2022-03-18 20:50:24.753214 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2022-03-18 20:50:24.750599 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/animate.css
+2022-03-18 20:50:24.756905 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.759209 [debug]: filesize:27396, 2  to 27519
+2022-03-18 20:50:24.759962 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.756772 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/jquery.js
+2022-03-18 20:50:24.762994 [debug]: filesize:76080, 2  to 76203
+2022-03-18 20:50:24.759974 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2022-03-18 20:50:24.757272 [debug]: /js/bootstrap.min.js
+2022-03-18 20:50:24.763081 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.763217 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2022-03-18 20:50:24.768472 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.768667 [debug]: /js/jquery.magnific-popup.min.js
+2022-03-18 20:50:24.768710 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2022-03-18 20:50:24.772220 [debug]: /js/smoothscroll.js
+2022-03-18 20:50:24.772235 [debug]: filesize:85661, 2  to 85791
+2022-03-18 20:50:24.775753 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/bootstrap.min.js
+2022-03-18 20:50:24.777870 [debug]: /js/magnific-popup-options.js
+2022-03-18 20:50:24.778597 [debug]: [GET], [/js/wow.min.js], [1.1]
+2022-03-18 20:50:24.785171 [debug]: filesize:36874, 2  to 37004
+2022-03-18 20:50:24.786742 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/smoothscroll.js
+2022-03-18 20:50:24.778625 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/jquery.magnific-popup.min.js
+2022-03-18 20:50:24.791582 [debug]: /js/wow.min.js
+2022-03-18 20:50:24.792378 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/magnific-popup-options.js
+2022-03-18 20:50:24.794077 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.794100 [debug]: filesize:20935, 2  to 21065
+2022-03-18 20:50:24.792397 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.797441 [debug]: filesize:4507, 2  to 4636
+2022-03-18 20:50:24.797470 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/wow.min.js
+2022-03-18 20:50:24.799813 [debug]: [GET], [/js/custom.js], [1.1]
+2022-03-18 20:50:24.799918 [debug]: filesize:1101, 2  to 1230
+2022-03-18 20:50:24.804029 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2022-03-18 20:50:24.805501 [debug]: /js/custom.js
+2022-03-18 20:50:24.804266 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.808587 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.808603 [debug]: /images/profile-image.jpg
+2022-03-18 20:50:24.799847 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.809563 [debug]: filesize:7083, 2  to 7212
+2022-03-18 20:50:24.809591 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/custom.js
+2022-03-18 20:50:24.812258 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.812268 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//images/profile-image.jpg
+2022-03-18 20:50:24.815078 [debug]: filesize:1087, 2  to 1216
+2022-03-18 20:50:24.815889 [debug]: filesize:47176, 2  to 47300
+2022-03-18 20:50:24.815893 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:24.818867 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.540819 [debug]: [GET], [/video.html], [1.1]
+2022-03-18 20:50:30.541353 [debug]: /video.html
+2022-03-18 20:50:30.545557 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//video.html
+2022-03-18 20:50:30.547150 [debug]: filesize:3347, 2  to 3469
+2022-03-18 20:50:30.548442 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.588153 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2022-03-18 20:50:30.589048 [debug]: /css/bootstrap.min.css
+2022-03-18 20:50:30.591330 [debug]: [GET], [/css/animate.css], [1.1]
+2022-03-18 20:50:30.591991 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2022-03-18 20:50:30.592557 [debug]: /css/animate.css
+2022-03-18 20:50:30.593204 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2022-03-18 20:50:30.593247 [debug]: /css/font-awesome.min.css
+2022-03-18 20:50:30.593312 [debug]: [GET], [/css/style.css], [1.1]
+2022-03-18 20:50:30.593328 [debug]: /css/style.css
+2022-03-18 20:50:30.593498 [debug]: [GET], [/js/jquery.js], [1.1]
+2022-03-18 20:50:30.593515 [debug]: /js/jquery.js
+2022-03-18 20:50:30.594196 [debug]: /css/magnific-popup.css
+2022-03-18 20:50:30.603289 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/font-awesome.min.css
+2022-03-18 20:50:30.606104 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/animate.css
+2022-03-18 20:50:30.606119 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/bootstrap.min.css
+2022-03-18 20:50:30.607771 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/style.css
+2022-03-18 20:50:30.608455 [debug]: filesize:76080, 2  to 76203
+2022-03-18 20:50:30.609395 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/magnific-popup.css
+2022-03-18 20:50:30.609477 [debug]: filesize:121265, 2  to 121389
+2022-03-18 20:50:30.613425 [debug]: filesize:27396, 2  to 27519
+2022-03-18 20:50:30.618138 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.607800 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/jquery.js
+2022-03-18 20:50:30.621238 [debug]: filesize:9807, 2  to 9929
+2022-03-18 20:50:30.621408 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.621438 [debug]: filesize:7302, 2  to 7424
+2022-03-18 20:50:30.621450 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.624554 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.626815 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.628265 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2022-03-18 20:50:30.628729 [debug]: filesize:85661, 2  to 85791
+2022-03-18 20:50:30.631954 [debug]: /js/bootstrap.min.js
+2022-03-18 20:50:30.639216 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.639350 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2022-03-18 20:50:30.643465 [debug]: [GET], [/js/wow.min.js], [1.1]
+2022-03-18 20:50:30.643566 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2022-03-18 20:50:30.643583 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2022-03-18 20:50:30.643631 [debug]: /js/smoothscroll.js
+2022-03-18 20:50:30.648086 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/bootstrap.min.js
+2022-03-18 20:50:30.648204 [debug]: /js/wow.min.js
+2022-03-18 20:50:30.648222 [debug]: /js/jquery.magnific-popup.min.js
+2022-03-18 20:50:30.648232 [debug]: /js/magnific-popup-options.js
+2022-03-18 20:50:30.653330 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/smoothscroll.js
+2022-03-18 20:50:30.654405 [debug]: [GET], [/js/custom.js], [1.1]
+2022-03-18 20:50:30.655769 [debug]: filesize:36874, 2  to 37004
+2022-03-18 20:50:30.655877 [debug]: /js/custom.js
+2022-03-18 20:50:30.655799 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/wow.min.js
+2022-03-18 20:50:30.658670 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/jquery.magnific-popup.min.js
+2022-03-18 20:50:30.660194 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.664914 [debug]: filesize:4507, 2  to 4636
+2022-03-18 20:50:30.667198 [debug]: filesize:20935, 2  to 21065
+2022-03-18 20:50:30.667273 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2022-03-18 20:50:30.667258 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/custom.js
+2022-03-18 20:50:30.667239 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/magnific-popup-options.js
+2022-03-18 20:50:30.667249 [debug]: filesize:7083, 2  to 7212
+2022-03-18 20:50:30.668376 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.668869 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.673301 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.673720 [debug]: filesize:1101, 2  to 1230
+2022-03-18 20:50:30.673767 [debug]: filesize:1087, 2  to 1216
+2022-03-18 20:50:30.673799 [debug]: /images/profile-image.jpg
+2022-03-18 20:50:30.677180 [debug]: [GET], [/video/xxx.mp4], [1.1]
+2022-03-18 20:50:30.678902 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.679568 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.681975 [debug]: /video/xxx.mp4
+2022-03-18 20:50:30.683172 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//images/profile-image.jpg
+2022-03-18 20:50:30.685831 [debug]: filesize:47176, 2  to 47300
+2022-03-18 20:50:30.690399 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:30.692127 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//video/xxx.mp4
+2022-03-18 20:50:30.697855 [debug]: filesize:39667571, 2  to 39667698
+2022-03-18 20:50:30.699032 [debug]: WRITE bytes -1
+
+2022-03-18 20:50:30.712846 [debug]: WRITE bytes -1
+
+2022-03-18 20:50:30.733883 [debug]: WRITE bytes -1
+
+2022-03-18 20:50:31.069395 [debug]: WRITE bytes -1
+
+2022-03-18 20:50:38.223431 [debug]: WRITE bytes -1
+
+2022-03-18 20:50:38.731677 [debug]: WRITE bytes 0
+
+2022-03-18 20:50:40.549561 [info] : Client[18] quit!
+2022-03-18 20:50:40.551804 [info] : Client[18](172.18.59.49:14793) quit, UserCount:6
+2022-03-18 20:50:54.586480 [debug]: [GET], [/video/xxx.mp4], [1.1]
+2022-03-18 20:50:54.586801 [debug]: /video/xxx.mp4
+2022-03-18 20:50:54.595634 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//video/xxx.mp4
+2022-03-18 20:50:54.598289 [debug]: filesize:39667571, 2  to 39667698
+2022-03-18 20:50:54.948242 [debug]: WRITE bytes -1
+
+2022-03-18 20:50:55.081501 [debug]: WRITE bytes -1
+
+2022-03-18 20:50:57.005505 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.405268 [debug]: [GET], [/picture.html], [1.1]
+2022-03-18 20:51:02.406597 [debug]: /picture.html
+2022-03-18 20:51:02.410916 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//picture.html
+2022-03-18 20:51:02.412735 [debug]: filesize:3960, 2  to 4082
+2022-03-18 20:51:02.415780 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.432380 [info] : Client[25] quit!
+2022-03-18 20:51:02.436452 [info] : Client[25](172.18.59.49:26569) quit, UserCount:5
+2022-03-18 20:51:02.467724 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2022-03-18 20:51:02.469215 [debug]: [GET], [/css/animate.css], [1.1]
+2022-03-18 20:51:02.470200 [debug]: /css/bootstrap.min.css
+2022-03-18 20:51:02.472595 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2022-03-18 20:51:02.476120 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2022-03-18 20:51:02.476275 [debug]: /css/animate.css
+2022-03-18 20:51:02.476303 [info] : Client[18](172.18.59.49:42953) in, userCount:6
+2022-03-18 20:51:02.476322 [debug]: [GET], [/css/style.css], [1.1]
+2022-03-18 20:51:02.478617 [debug]: /css/magnific-popup.css
+2022-03-18 20:51:02.478625 [debug]: /css/font-awesome.min.css
+2022-03-18 20:51:02.478628 [info] : Client[18] in!
+2022-03-18 20:51:02.478630 [debug]: /css/style.css
+2022-03-18 20:51:02.481816 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/bootstrap.min.css
+2022-03-18 20:51:02.485924 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/animate.css
+2022-03-18 20:51:02.485952 [debug]: [GET], [/js/jquery.js], [1.1]
+2022-03-18 20:51:02.485958 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/style.css
+2022-03-18 20:51:02.489489 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/magnific-popup.css
+2022-03-18 20:51:02.490397 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//css/font-awesome.min.css
+2022-03-18 20:51:02.490887 [debug]: filesize:121265, 2  to 121389
+2022-03-18 20:51:02.491768 [debug]: filesize:76080, 2  to 76203
+2022-03-18 20:51:02.491862 [debug]: filesize:7302, 2  to 7424
+2022-03-18 20:51:02.511404 [debug]: filesize:9807, 2  to 9929
+2022-03-18 20:51:02.512404 [debug]: filesize:27396, 2  to 27519
+2022-03-18 20:51:02.490415 [debug]: /js/jquery.js
+2022-03-18 20:51:02.512606 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.512636 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.513154 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.512570 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.519358 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2022-03-18 20:51:02.520312 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2022-03-18 20:51:02.522092 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2022-03-18 20:51:02.524242 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2022-03-18 20:51:02.524274 [debug]: /js/smoothscroll.js
+2022-03-18 20:51:02.524351 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.524400 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/jquery.js
+2022-03-18 20:51:02.524287 [debug]: /js/magnific-popup-options.js
+2022-03-18 20:51:02.525261 [debug]: /js/jquery.magnific-popup.min.js
+2022-03-18 20:51:02.528407 [debug]: /js/bootstrap.min.js
+2022-03-18 20:51:02.528454 [debug]: [GET], [/js/wow.min.js], [1.1]
+2022-03-18 20:51:02.529754 [debug]: filesize:85661, 2  to 85791
+2022-03-18 20:51:02.529783 [debug]: /js/wow.min.js
+2022-03-18 20:51:02.533617 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/magnific-popup-options.js
+2022-03-18 20:51:02.541544 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/jquery.magnific-popup.min.js
+2022-03-18 20:51:02.541601 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/smoothscroll.js
+2022-03-18 20:51:02.541577 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.543746 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/bootstrap.min.js
+2022-03-18 20:51:02.543756 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/wow.min.js
+2022-03-18 20:51:02.543803 [debug]: filesize:20935, 2  to 21065
+2022-03-18 20:51:02.543828 [debug]: filesize:1101, 2  to 1230
+2022-03-18 20:51:02.546736 [debug]: filesize:4507, 2  to 4636
+2022-03-18 20:51:02.548185 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2022-03-18 20:51:02.551596 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.553214 [debug]: /images/profile-image.jpg
+2022-03-18 20:51:02.553879 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.554067 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.554097 [debug]: filesize:36874, 2  to 37004
+2022-03-18 20:51:02.555872 [debug]: filesize:7083, 2  to 7212
+2022-03-18 20:51:02.559652 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.563496 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.564386 [debug]: [GET], [/images/instagram-image1.jpg], [1.1]
+2022-03-18 20:51:02.564544 [debug]: [GET], [/js/custom.js], [1.1]
+2022-03-18 20:51:02.566638 [debug]: [GET], [/images/instagram-image2.jpg], [1.1]
+2022-03-18 20:51:02.567447 [debug]: /images/instagram-image1.jpg
+2022-03-18 20:51:02.567835 [debug]: /js/custom.js
+2022-03-18 20:51:02.569828 [debug]: /images/instagram-image2.jpg
+2022-03-18 20:51:02.574396 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//images/profile-image.jpg
+2022-03-18 20:51:02.577603 [debug]: [GET], [/images/instagram-image4.jpg], [1.1]
+2022-03-18 20:51:02.577799 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//js/custom.js
+2022-03-18 20:51:02.577803 [debug]: [GET], [/images/instagram-image3.jpg], [1.1]
+2022-03-18 20:51:02.580603 [debug]: filesize:47176, 2  to 47300
+2022-03-18 20:51:02.580633 [debug]: /images/instagram-image4.jpg
+2022-03-18 20:51:02.580691 [debug]: filesize:1087, 2  to 1216
+2022-03-18 20:51:02.581450 [debug]: /images/instagram-image3.jpg
+2022-03-18 20:51:02.586717 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//images/instagram-image2.jpg
+2022-03-18 20:51:02.586821 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.597929 [debug]: [GET], [/images/instagram-image5.jpg], [1.1]
+2022-03-18 20:51:02.599591 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.602229 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//images/instagram-image3.jpg
+2022-03-18 20:51:02.580030 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//images/instagram-image1.jpg
+2022-03-18 20:51:02.603932 [debug]: /images/instagram-image5.jpg
+2022-03-18 20:51:02.609811 [debug]: filesize:67313, 2  to 67437
+2022-03-18 20:51:02.609837 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//images/instagram-image4.jpg
+2022-03-18 20:51:02.614862 [debug]: file path /mnt/hj/codeTest/websever_program_hj/resources//images/instagram-image5.jpg
+2022-03-18 20:51:02.609846 [debug]: filesize:59528, 2  to 59652
+2022-03-18 20:51:02.622278 [debug]: filesize:49545, 2  to 49669
+2022-03-18 20:51:02.622431 [debug]: filesize:103418, 2  to 103543
+2022-03-18 20:51:02.620572 [debug]: filesize:75836, 2  to 75960
+2022-03-18 20:51:02.622464 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.625273 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.633225 [debug]: WRITE bytes -1
+
+2022-03-18 20:51:02.634811 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.634832 [debug]: WRITE bytes 0
+
+2022-03-18 20:51:02.642568 [debug]: WRITE bytes 0
+
